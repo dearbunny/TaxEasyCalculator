@@ -13,6 +13,7 @@
 		9A0A6526264148F5008262E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A0A6524264148F5008262E1 /* Main.storyboard */; };
 		9A0A6528264148F6008262E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9A0A6527264148F6008262E1 /* Assets.xcassets */; };
 		9A0A652B264148F6008262E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A0A6529264148F6008262E1 /* LaunchScreen.storyboard */; };
+		9A0A653426414B42008262E1 /* NaikaiFont-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9A0A653326414B42008262E1 /* NaikaiFont-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9A0A6527264148F6008262E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9A0A652A264148F6008262E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9A0A652C264148F6008262E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9A0A653326414B42008262E1 /* NaikaiFont-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "NaikaiFont-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9A0A6527264148F6008262E1 /* Assets.xcassets */,
 				9A0A6529264148F6008262E1 /* LaunchScreen.storyboard */,
 				9A0A652C264148F6008262E1 /* Info.plist */,
+				9A0A653326414B42008262E1 /* NaikaiFont-Regular.ttf */,
 			);
 			path = "TaxEasyCalculator小費計算機";
 			sourceTree = "<group>";
@@ -125,6 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9A0A652B264148F6008262E1 /* LaunchScreen.storyboard in Resources */,
+				9A0A653426414B42008262E1 /* NaikaiFont-Regular.ttf in Resources */,
 				9A0A6528264148F6008262E1 /* Assets.xcassets in Resources */,
 				9A0A6526264148F5008262E1 /* Main.storyboard in Resources */,
 			);
